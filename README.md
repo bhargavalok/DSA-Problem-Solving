@@ -11,6 +11,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 ## Knapsack Problem
 |  |
@@ -24,6 +25,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -32,4 +34,9 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
