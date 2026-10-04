@@ -13,6 +13,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0022-generate-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -35,8 +37,14 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | ------- |
 | [0022-generate-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
