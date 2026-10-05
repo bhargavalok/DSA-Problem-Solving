@@ -28,6 +28,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0022-generate-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -38,11 +39,13 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0022-generate-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
