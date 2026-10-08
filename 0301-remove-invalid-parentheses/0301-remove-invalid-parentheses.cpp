@@ -1,142 +1,47 @@
 class Solution {
-public:
+public: 
+    int n;
+    unordered_set<string>st;
+    int maxlen;
+    
+    void solve(string &s, int i, string &curr, int count) {
+        if(count<0) { return; }
+        
+        if(i==n) {
+            if(count==0) {
+                if(curr.length()>maxlen) {
+                    maxlen=curr.length();
+                    st.clear();
+                }
 
-    vector<string> ans;
+                if(curr.length()==maxlen) {
+                    st.insert(curr);
+                }
 
-    void dfs(string &s,
-             int index,
-             int leftRemove,
-             int rightRemove,
-             int open,
-             string &path,
-             bool prevRemoved) {
-
-        // Base case
-        if (index == s.size()) {
-
-            if (leftRemove == 0 &&
-                rightRemove == 0 &&
-                open == 0) {
-
-                ans.push_back(path);
             }
-
+            return;
+        }
+        
+        if(s[i]!='(' && s[i]!=')') { // means s[i] is an alphabet ! 
+            curr.push_back(s[i]);
+            solve(s,i+1,curr,count);
+            curr.pop_back();
             return;
         }
 
-        char ch = s[index];
-
-        // ---------------------------------
-        // CASE 1: '('
-        // ---------------------------------
-        if (ch == '(') {
-            // option1: remove '('
-            if (leftRemove > 0) {
-                if (!(index > 0 &&
-                      s[index] == s[index - 1] &&
-                      !prevRemoved)) {
-                    dfs(s,
-                        index + 1,
-                        leftRemove - 1,
-                        rightRemove,
-                        open,
-                        path,
-                        true);
-                }
-            }
-
-            // option2: keep '('
-            path.push_back('(');
-
-            dfs(s,
-                index + 1,
-                leftRemove,
-                rightRemove,
-                open + 1,
-                path,
-                false);
-
-            path.pop_back();
-        }
-        // case2: ')'
-        else if (ch == ')') {
-            // option1: remove ')'
-            if (rightRemove > 0) {
-                // Skip duplicate removal
-                // ONLY if previous identical character
-                // was NOT removed
-                if (!(index > 0 &&
-                      s[index] == s[index - 1] &&
-                      !prevRemoved)) {
-                    dfs(s,
-                        index + 1,
-                        leftRemove,
-                        rightRemove - 1,
-                        open,
-                        path,
-                        true);
-                }
-            }
-
-            // Option2: keep ')'
-            if (open > 0) {
-                path.push_back(')');
-                dfs(s,
-                    index + 1,
-                    leftRemove,
-                    rightRemove,
-                    open - 1,
-                    path,
-                    false);
-                path.pop_back();
-            }
-        }
-        // case3: letter
-        else {
-            path.push_back(ch);
-            dfs(s,
-                index + 1,
-                leftRemove,
-                rightRemove,
-                open,
-                path,
-                false);
-
-            path.pop_back();
-        }
+        curr.push_back(s[i]);
+        solve(s,i+1,curr,count+(s[i]=='(' ? 1:-1));
+        curr.pop_back();
+        solve(s,i+1,curr,count);
     }
 
 
     vector<string> removeInvalidParentheses(string s) {
-        ans.clear();
-        int leftRemove = 0;
-        int rightRemove = 0;
-        // step1: Calculate minimum removals
-        for (char ch : s) {
-            if (ch == '(') {
-                leftRemove++;
-            }
-
-            else if (ch == ')') {
-                if (leftRemove > 0) {
-                    leftRemove--;
-                }
-                else {
-                    rightRemove++;
-                }
-            }
-        }
-
-        string path;
-        // backtracking part 
-        dfs(s,
-            0,
-            leftRemove,
-            rightRemove,
-            0,
-            path,
-            false);
-
-        return ans;
+        n = s.length();
+        st.clear();
+        maxlen = 0;
+        string curr = "";
+        solve(s,0,curr,0);
+        return vector<string>(begin(st),end(st));
     }
 };
