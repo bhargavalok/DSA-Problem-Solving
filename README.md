@@ -7,6 +7,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,8 +61,21 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
