@@ -1,43 +1,23 @@
 class Solution {
 public:
     long long minSumSquareDiff(vector<int>& nums1, vector<int>& nums2, int k1, int k2) {
-        long long k = 1LL * k1 + k2;
-        vector<int> diff;
-        int maxi = 0;
-        long long total = 0;
-        for (int i = 0; i < nums1.size(); i++) {
-            int d = abs(nums1[i] - nums2[i]);
-            diff.push_back(d);
-            maxi = max(maxi, d);
-            total += d;
+        int n = nums1.size();
+        vector<int>countDiff(1e5+1,0);
+        for(int i=0; i<nums1.size(); i++) {
+            int d = abs(nums1[i]-nums2[i]);
+            countDiff[d]++;
         }
-        if (total <= k) return 0;
-        int left = 0, right = maxi;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            long long need = 0;
-            for (int d : diff) {
-                if (d > mid) {
-                    need += d - mid;
-                }
-            }
-            if (need <= k) {
-                right = mid;
-            } else {
-                left = mid + 1;
-            }
+        int k = k1+k2;
+        for(int currDiff=1e5; k>0 && currDiff>0; currDiff--) {
+        int countoperations = min(countDiff[currDiff], k);
+        countDiff[currDiff] -= countoperations;
+        countDiff[currDiff-1] += countoperations;
+        k-=countoperations;
         }
-        long long ans = 0;
-        long long used = 0;
-        for (int d : diff) {
-            int value = min(d, left);
-            ans += 1LL * value * value;
-            if (d > left) {
-                used += d - left;
-            }
+        long long result = 0;
+        for(long long d=1; d<=1e5; d++) {
+            result+=(countDiff[d]* d*d);
         }
-        long long remaining = k - used;
-        ans -= remaining * (2LL * left - 1);
-        return ans;
+        return result;
     }
 };
