@@ -1,26 +1,26 @@
 class Solution {
 public:
+    int mod = 1e9+7;
     int maxSum(vector<int>& nums, int k) {
-        const int MOD = 1e9 + 7;
-        vector<int> bits(32, 0);
-        for (int num : nums) {
-            for (int i = 0; i < 32; i++) {
-                if (num & (1 << i)) {
-                    bits[i]++;
+        vector<int>count(32,0);
+        for(int &num : nums) {
+            for(int b=0;b<32;b++) { // b stands for bit position here 
+                if(num & (1<<b)) {
+                    count[b]++; // found 1 at that bit position
                 }
             }
         }
-        long long ans = 0;
-        for (int i = 0; i < k; i++) {
-            long long num = 0;
-            for (int j = 0; j < 32; j++) {
-                if (bits[j] > 0) {
-                    num |= (1LL << j);
-                    bits[j]--;
+            long long result = 0;
+            while(k--) {
+                long long curr = 0;
+                for(int b=0;b<32;b++) {
+                if(count[b]>0) {
+                    count[b]--;
+                    curr=(curr|1<<b);
                 }
+                }
+                result = (result + (curr * curr) % mod) % mod;
             }
-            ans = (ans + num * num) % MOD;
-        }
-        return ans;
+            return result;
     }
 };
