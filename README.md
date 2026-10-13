@@ -8,6 +8,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -96,4 +97,8 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
