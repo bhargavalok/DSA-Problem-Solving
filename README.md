@@ -67,6 +67,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
@@ -101,4 +102,5 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
