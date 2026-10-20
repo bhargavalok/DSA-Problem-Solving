@@ -17,6 +17,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
