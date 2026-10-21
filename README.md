@@ -44,6 +44,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0856-score-of-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
