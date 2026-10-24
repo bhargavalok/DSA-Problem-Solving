@@ -46,6 +46,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0856-score-of-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2409-count-days-spent-together](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
@@ -121,6 +122,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
