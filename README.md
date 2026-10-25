@@ -7,6 +7,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [1254-number-of-closed-islands](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -87,6 +88,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -171,4 +174,12 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
