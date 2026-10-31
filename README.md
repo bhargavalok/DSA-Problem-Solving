@@ -19,6 +19,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -32,6 +33,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0416-partition-equal-subset-sum](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
 |  |
@@ -200,6 +202,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
