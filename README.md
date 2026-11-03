@@ -23,6 +23,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
@@ -147,6 +148,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [2409-count-days-spent-together](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
