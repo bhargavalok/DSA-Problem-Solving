@@ -28,6 +28,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -44,6 +45,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Knapsack Problem
 |  |
