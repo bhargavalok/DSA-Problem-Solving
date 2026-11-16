@@ -71,6 +71,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0856-score-of-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -270,6 +271,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Ordered Set
 |  |
 | ------- |
