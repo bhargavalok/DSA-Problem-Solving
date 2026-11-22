@@ -74,6 +74,7 @@ A collection of my Data Structures and Algorithms solutions, documenting consist
 | [0856-score-of-parentheses](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/bhargavalok/DSA-Problem-Solving/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
